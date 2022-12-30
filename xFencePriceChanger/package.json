@@ -1,0 +1,9 @@
+{
+  "name": "fencepricechanger",
+  "version": "1.0.0",
+  "main": "src/pc.js",
+  "license": "CC",
+  "author": "Capataina",
+  "description": "Fence price changes with level",
+  "akiVersion": "*"
+}
